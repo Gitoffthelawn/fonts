@@ -1,6 +1,1422 @@
 {
-    "last_run": "2025-04-14",
+    "last_run": "2025-04-21",
     "commits": [
+        {
+            "date": "2025-04-11T12:41:00",
+            "title": "Merge pull request #9296 from google/iansui_1012",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "24f85398fc0f3bd4335ff7a2b98109de1958d6fc"
+        },
+        {
+            "date": "2025-04-11T11:02:51",
+            "title": "Merge pull request #9331 from google/more-primary-scripts",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "fe587180c05409e795623070d77d9808549c978f"
+        },
+        {
+            "date": "2025-04-10T18:03:51",
+            "title": "Missing in GH (#9332)",
+            "author": "Rod",
+            "status": "new",
+            "kind": "family",
+            "id": "7d1c962b6fbc8987b59ed229bbe5c12764d3a624"
+        },
+        {
+            "date": "2025-04-10T14:16:17",
+            "title": "Merge pull request #9307 from google/bios-for-ancizar",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "452f3537f29b00c0c8b547894fca079bcf2ad161"
+        },
+        {
+            "date": "2025-04-10T14:12:41",
+            "title": "Update bio.html",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "d76e2cc667dc80d64c924a2af0f8805c4732fb8b"
+        },
+        {
+            "date": "2025-04-10T14:09:55",
+            "title": "Merge pull request #9320 from google/sources_info_for_yaldevicolombo",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "1de63b3e4f99c69e87c9ca94e60328ecb86d079f"
+        },
+        {
+            "date": "2025-04-10T14:09:07",
+            "title": "Merge pull request #9302 from google/gftools_packager_ofl_libertinusmath",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "cf7556374165b8f49a3bc676cbe8843fa4060e1c"
+        },
+        {
+            "date": "2025-04-10T08:41:32",
+            "title": "Add remaining Primary Script definitions for #8416",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "c4992a66be502cd0ad184aaa96863fd19db11c28"
+        },
+        {
+            "date": "2025-04-10T07:40:43",
+            "title": "Merge pull request #9323 from google/sources_info_2025-04-09",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "1620478fd007679712f1909486d4bd374b6c92de"
+        },
+        {
+            "date": "2025-04-09T19:51:56",
+            "title": "Update to_production.txt, remove pushed items.",
+            "author": "Garret Rieger",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "f32f7a64ad366c7150fb83489ac40ccf95c5e1d1"
+        },
+        {
+            "date": "2025-04-09T19:49:41",
+            "title": "Update to_sandbox.txt, remove pushed items.",
+            "author": "Garret Rieger",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "4950c5df9cb4cf7da3dccd0e33aa896743d9caa4"
+        },
+        {
+            "date": "2025-04-09T14:38:30",
+            "title": "Merge pull request #9298 from google/WenKai_docs",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "metadata",
+            "id": "cfa8e9ccaeff359618691bcfd441c880cf0da8ce"
+        },
+        {
+            "date": "2025-04-09T14:22:39",
+            "title": "Merge pull request #9239 from google/emmamarichal-patch-1",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "42824ead87d4a830012fc0c02f6eb2ba9fa75350"
+        },
+        {
+            "date": "2025-04-09T14:22:11",
+            "title": "Merge pull request #9242 from google/emmamarichal-patch-2",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "42cecc073619c198a157481b80ccaa28e89f9452"
+        },
+        {
+            "date": "2025-04-09T14:15:00",
+            "title": "Merge pull request #9275 from google/emmamarichal-patch-4",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "cdc3402f49c5dec2208f86c1852ff6c34700e5c0"
+        },
+        {
+            "date": "2025-04-09T14:02:43",
+            "title": "Merge pull request #9281 from google/gftools_packager_ofl_exile",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "family",
+            "id": "3cf7d85e3a62a9f6626d906d03532039934f434b"
+        },
+        {
+            "date": "2025-04-09T13:48:01",
+            "title": "Merge pull request #9297 from google/gftools_packager_ofl_akatab",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "ff34e331a53a2e8d07f375eee01349d39e43f4f9"
+        },
+        {
+            "date": "2025-04-09T13:43:30",
+            "title": "Merge pull request #9304 from google/gftools_packager_ofl_playpensansdeva",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "795607c45b88bb22aefb537a27c120a6fe24087a"
+        },
+        {
+            "date": "2025-04-09T13:19:21",
+            "title": "Merge pull request #9328 from google/gftools_packager_ofl_figtree",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "648170ed63b408bcb1d4b10f1add28b1955207d7"
+        },
+        {
+            "date": "2025-04-09T13:10:51",
+            "title": "Update METADATA.pb - designers string",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "4f05acb59da88e073b6890c65f94896868e2ff7c"
+        },
+        {
+            "date": "2025-04-09T12:34:55",
+            "title": "Merge pull request #9303 from google/gftools_packager_ofl_libertinusmono",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "26e383469bb8c921ac65b71d915dd63316fc2ffc"
+        },
+        {
+            "date": "2025-04-09T12:31:53",
+            "title": "Add images for LXGW fonts",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "metadata",
+            "id": "18a7b865c48eee012fd11e9c44a6305a4a5bc46f"
+        },
+        {
+            "date": "2025-04-09T12:17:18",
+            "title": "Updating designer names",
+            "author": "Aaron",
+            "status": "modified",
+            "kind": "family",
+            "id": "adf64ab01b7f7ab4cea423c6c3945c60276e9988"
+        },
+        {
+            "date": "2025-04-09T11:51:18",
+            "title": "image size",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "bbb14ea372d5d91cad1465bb7d2268bbea2f4bb8"
+        },
+        {
+            "date": "2025-04-09T11:50:00",
+            "title": "push back article + bump version",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "7888febb355d9e2c2c4aa357d20734e383f2198f"
+        },
+        {
+            "date": "2025-04-09T11:49:26",
+            "title": "Merge pull request #9324 from google/045a1e-designer1",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "758ed4c433532a7960a6bc4697fcde11456cfcff"
+        },
+        {
+            "date": "2025-04-09T11:43:37",
+            "title": "Figtree: Version 2.001 added",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "98dcd735842d3c9aa0b8ab2b778a61a2165a6d60"
+        },
+        {
+            "date": "2025-04-09T11:40:10",
+            "title": "Merge pull request #9326 from google/045a1e-designer3",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "designer",
+            "id": "d29ab4ba1a9feea7fcd5729d2f8d1b2af7fe7b0f"
+        },
+        {
+            "date": "2025-04-09T11:39:46",
+            "title": "Merge pull request #9327 from google/alistairmccready",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "3ad4bd4c663851c3c89211f44ab77cbccec27660"
+        },
+        {
+            "date": "2025-04-09T11:36:24",
+            "title": "add article",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "metadata",
+            "id": "8228893d9dc60204aad7de0e99ab6e548ef670bc"
+        },
+        {
+            "date": "2025-04-09T11:32:45",
+            "title": "bump version",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "db90b8f0fd741406610001695764153f802586a6"
+        },
+        {
+            "date": "2025-04-09T11:27:19",
+            "title": "Figtree: Version 2.001 added",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "81901e2c3e9b320406a5b63d0d86b7bbfba69a77"
+        },
+        {
+            "date": "2025-04-09T10:38:48",
+            "title": "Merge pull request #9282 from google/gftools_packager_apache2_robotomono",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "4e58defe4c5b6c82d4fe485339750d5c41e514a6"
+        },
+        {
+            "date": "2025-04-09T10:19:27",
+            "title": "Merge pull request #9325 from google/045a1e-designer2",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "designer",
+            "id": "11c922c81f653d8dd16a5fc7c223ea4520c17f6f"
+        },
+        {
+            "date": "2025-04-09T10:13:49",
+            "title": "Add designer: Alistair McCready",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "designer",
+            "id": "e10790afac6b999ef99b443fda462ba9b81749bf"
+        },
+        {
+            "date": "2025-04-09T09:58:16",
+            "title": "Add designer 045a1e (3)",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "designer",
+            "id": "f9ff4f4416b621cbed05a4b6d4377f53d3718591"
+        },
+        {
+            "date": "2025-04-09T09:55:09",
+            "title": "Add designer: 045a1e (2)",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "designer",
+            "id": "ea79d3b90d2b00e9d3988bf840336c8c072987f8"
+        },
+        {
+            "date": "2025-04-09T09:53:01",
+            "title": "045a1e Add designer (1)",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "63f881375728989739a8a8f0b59965b9a4f0b339"
+        },
+        {
+            "date": "2025-04-09T09:15:19",
+            "title": "Update families.csv",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "58916713158c15b2082522bb78ebeb049ecb43f6"
+        },
+        {
+            "date": "2025-04-09T08:59:07",
+            "title": "run.py only run if fonts found",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "4c7fd8cda6bc5743a285235446e90dbb6b601a02"
+        },
+        {
+            "date": "2025-04-09T08:46:33",
+            "title": "Roboto Mono: Version 3.001 added",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "b01086459d9d41ece904d39155b93f7bd3a676f2"
+        },
+        {
+            "date": "2025-04-09T08:17:50",
+            "title": "Merge pull request #9309 from google/pushlists",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "ac8f68d4ac7c8ada8a74502131e1a94d52d8137d"
+        },
+        {
+            "date": "2025-04-09T08:09:04",
+            "title": "sources info for Noto Serif Georgian: Version 2.003",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "c1bee7bcda9b5af27110f122865d350cbeb6e074"
+        },
+        {
+            "date": "2025-04-09T08:05:59",
+            "title": "sources info for Noto Sans Georgian: Version 2.005",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "a8f4492aaef6b60ab22db3ff966acc63535b452a"
+        },
+        {
+            "date": "2025-04-09T07:47:57",
+            "title": "sources info for Noto Serif Lao: Version 2.003",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "e54a34221d7109e8f79c112532238d307e734953"
+        },
+        {
+            "date": "2025-04-09T07:37:11",
+            "title": "sources info for Noto Sans Lao: Version 2.003",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "6803ca65cf153749a153d71982c6a4a0ed9f390a"
+        },
+        {
+            "date": "2025-04-09T07:34:32",
+            "title": "sources info for Noto Sans Lao Looped: Version 1.002",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "bf63bc49cd75c4c4b9ba1a113fb2aa66748e23f2"
+        },
+        {
+            "date": "2025-04-09T07:34:23",
+            "title": "sources info for Noto Sans Adlam Unjoined: Version 3.003",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "81e8154b52e120ada4770ca5b02842ff46c8411c"
+        },
+        {
+            "date": "2025-04-09T07:34:03",
+            "title": "sources info for Noto Sans Adlam: Version 3.001",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "9a515711cac1d8910d199b35dd192d7cbea2fd8b"
+        },
+        {
+            "date": "2025-04-08T21:15:40",
+            "title": "Merge pull request #9322 from shailenpatel2/update-knowledge-link",
+            "author": "shailenpatel2",
+            "status": "modified",
+            "kind": "family",
+            "id": "dae941f6edb2564da5fb00cc20cd083f2186221d"
+        },
+        {
+            "date": "2025-04-08T21:06:29",
+            "title": "update interlude link readability_and_a11y",
+            "author": "shailenpatel2",
+            "status": "modified",
+            "kind": "family",
+            "id": "d60551f880bca85d90bca86cfee147f532207320"
+        },
+        {
+            "date": "2025-04-07T16:52:00",
+            "title": "Merge pull request #9317 from google/sources_info_2025-04-01",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "381dbb25fb73df2eccba466c012a777d7bd87a78"
+        },
+        {
+            "date": "2025-04-07T16:46:04",
+            "title": "Merge pull request #9316 from google/sources_info_2025-04-02",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "d42d4aa96aea201c5bb8a7025a625be1684dac2a"
+        },
+        {
+            "date": "2025-04-07T16:45:07",
+            "title": "Merge pull request #9319 from google/sources_info_for_sticknobills",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "a1d588820693843b59d1ce83277a5bbb6ba39497"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources info for Winky Rough",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "d0fa97feffa0fcd35e5cf29aaf06a8168aafbb39"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources info for Akshar",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "a77294cb645ee19c582a6b07dec21cbe49c5ffee"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources info for Eczar",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "35e809c6bab213f80681c962aef039ce3987aa75"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources info for Reddit Sans and Reddit Sans Condensed",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "a22b70e5febc8ac2d6f770f929a4438ef487f42c"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources info for Georama",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "f766d186ad3030781bcc0f65dd10c570ee651961"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources for Yaldevi",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "766619e7718d4608e1a7bab08bc05f759d2296a9"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources info for Gemunu Libre",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "1f12f787de0394f8878f7f705238f718416b341d"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources info for Cascadia Code & Cascadia Mono",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "692a7f5089bfee253ac8f8e98ac136f18d1ad07a"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources info for Andada Pro",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "6e59217d1558fcda00e42d5a55ecff2b5105f675"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources info for Lexend (incl. Deca, Exa, Giga, Mega, Peta, Tera & Zetta)",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "11e18675fa85b0842be6b38c6f2b5a03bf959b85"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources info for Bakbak One",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "c20c67c3bbb1035ae8fa24e029c14c75631b5902"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources info for Artifika",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "b80cdb7cc9d3b7f019d099d0216c76b2bafd12df"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources info for National Park",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "7abf69ec3949c3961292281133439ac11dfa1ff9"
+        },
+        {
+            "date": "2025-04-07T15:21:50",
+            "title": "sources info for Playpen Sans Arabic, Deva, Hebrew & Thai",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "39d1efe3e4102854bb6504792e867a64270eeadb"
+        },
+        {
+            "date": "2025-04-07T15:21:49",
+            "title": "sources info for Special Gothic (including Condensed One and Expanded One)",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "b82158d52c7b13eeba421fcc01686094937633c8"
+        },
+        {
+            "date": "2025-04-07T15:21:49",
+            "title": "sources info for Alumni Sans",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "91fc42a96fe4b0f9cacfb995b5072aae863b9202"
+        },
+        {
+            "date": "2025-04-07T15:21:49",
+            "title": "sources info for Alice",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "4d72b3e7c212b327314ba4390ed3f408bd37731c"
+        },
+        {
+            "date": "2025-04-07T15:21:49",
+            "title": "sources info for Abhaya Libre",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "04009b5bbc0e6e89a5360ec6fed48654a3476c71"
+        },
+        {
+            "date": "2025-04-07T15:21:49",
+            "title": "sources info for 42dot Sans",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "da0442cc465f9d9d570fde196596b67b13a9a70d"
+        },
+        {
+            "date": "2025-04-07T15:21:49",
+            "title": "sources info for Cal Sans",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "b025485e8a1ce43ca3d5bc7d6d94f252692e656b"
+        },
+        {
+            "date": "2025-04-07T15:18:51",
+            "title": "sources info for Yaldevi Colombo",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "6d56bef1d89303904c072d6fb244f55e562feaaf"
+        },
+        {
+            "date": "2025-04-07T14:42:09",
+            "title": "Merge pull request #9318 from google/sources_info_2025-04-03",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "dd68f531dfad8121d6d49ee074cac3d50e25ebd2"
+        },
+        {
+            "date": "2025-04-07T13:56:17",
+            "title": "sources info for Stick No Bills",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "248a6694ebe92446755a19596ff416a509e2bde4"
+        },
+        {
+            "date": "2025-04-07T12:20:30",
+            "title": "sources info for Noto Sans (& Serif) Balinese",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "98ed71bc9dc909e2e9c32670a006442298e676ef"
+        },
+        {
+            "date": "2025-04-07T12:20:30",
+            "title": "sources info for Noto Sans (& Serif) Armenian",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "55f24d1d915b960c9e701faec9a224a2cf1f4ae5"
+        },
+        {
+            "date": "2025-04-07T12:20:30",
+            "title": "sources info for Bruno Ace (incl. SC)",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "f80b31006d0eb37932ce22483ca52683bc173357"
+        },
+        {
+            "date": "2025-04-07T12:20:30",
+            "title": "sources info for Cormorant (incl. SC, Upright, Garamond, Infant and Unicase)",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "a20b18752460f9ad19b91d2cc17d0b4d39752b74"
+        },
+        {
+            "date": "2025-04-07T12:20:30",
+            "title": "sources info for Tac One",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "82f74e9e4a1025ea16ce15661f10a469e0094af7"
+        },
+        {
+            "date": "2025-04-07T12:20:30",
+            "title": "sources info for Danfo",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "24f65f1b23300e39cf06614dbfcb865f836d3420"
+        },
+        {
+            "date": "2025-04-07T12:15:17",
+            "title": "sources info for Noto Sans Khojki (Sans & Serif)",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "7821d1d8b2b13c83559f77f7493219e8c5e77615"
+        },
+        {
+            "date": "2025-04-07T12:15:17",
+            "title": "sources info for Jacquarda Bastarda 9 Charted",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "1850b7b8ccbdc5aa91867045faba6bece67a6462"
+        },
+        {
+            "date": "2025-04-07T12:15:17",
+            "title": "sources info for Jacquard (12, 12 Charted, 24 & 24 Charted)",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "5e220ee78196fd4b38a9ce8f31e6e95fec0e72fa"
+        },
+        {
+            "date": "2025-04-07T12:15:17",
+            "title": "sources info for Jersey (10, 10 Charted, 15, 15 Charted, 20, 20 Charted, 25 & 25 Charted)",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "08d1c9cf8955b944473cd89d3e44ba78c7451a28"
+        },
+        {
+            "date": "2025-04-07T12:15:17",
+            "title": "sources info for Yarndings (12, 20, 12 Charted and 20 Charted)",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "33e4c51e6601c385033fcc6b8d7efcb5f117ab7d"
+        },
+        {
+            "date": "2025-04-07T12:15:17",
+            "title": "sources info for Protest (Riot, Revolution, Strike & Guerrilla)",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "f158f423717dfaea5865a92baced0a58831f2d06"
+        },
+        {
+            "date": "2025-04-07T12:15:17",
+            "title": "sources for Geist & Geist Mono",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "cbe1f7ee5a0b1ef12de0f5881f61300ae02769e4"
+        },
+        {
+            "date": "2025-04-07T12:15:17",
+            "title": "sources info for Maven Pro",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "be712aef9cfc14c2eba306e3d31c591f6f3dd8a3"
+        },
+        {
+            "date": "2025-04-07T12:15:17",
+            "title": "sources info for Hahmlet",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "9d738e639ce1cb51ac7d9a4115aeddfb964faf77"
+        },
+        {
+            "date": "2025-04-07T12:15:16",
+            "title": "sources info for Teko",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "56e5fa503715be57319bd81f100fdce985ff6e43"
+        },
+        {
+            "date": "2025-04-07T12:15:16",
+            "title": "sources info for Alatsi",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "8df2840c6bce4ef3a290892b240be7513c94108b"
+        },
+        {
+            "date": "2025-04-04T15:24:11",
+            "title": "to_production.txt: Remove playpen family",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "8a73d9789b3ea3ae3c87db75b2ef4fe9dcd6d671"
+        },
+        {
+            "date": "2025-04-04T14:12:44",
+            "title": "push lists updated",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "70b09b3831efe87ec3ccb2608e295cf3a1f5a7e3"
+        },
+        {
+            "date": "2025-04-04T13:23:05",
+            "title": "Merge pull request #9308 from google/special-gothic-articles",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "015dc1023b1d76050c344894a83a7f2430a424ee"
+        },
+        {
+            "date": "2025-04-04T12:44:11",
+            "title": "update article and images",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "designer",
+            "id": "602a7a84d63e4c06b06ee68eb36efb078c8c5ee1"
+        },
+        {
+            "date": "2025-04-04T11:43:40",
+            "title": "Bios for Ancizar",
+            "author": "Yanone",
+            "status": "modified",
+            "kind": "family",
+            "id": "43531bf9af0e8a2f3fea83074003f3083b2a76f5"
+        },
+        {
+            "date": "2025-04-03T16:43:55",
+            "title": "Playpen Sans Deva: Version 2.000 added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "1f6a18e720bccdb4d1635e4078f0355e68deeb49"
+        },
+        {
+            "date": "2025-04-03T14:09:06",
+            "title": "Libertinus Mono: Version 7.051;RELEASE added",
+            "author": "Yanone",
+            "status": "modified",
+            "kind": "family",
+            "id": "9713f7322f3e75c644db9042611c3fec88f5e7a2"
+        },
+        {
+            "date": "2025-04-03T14:07:37",
+            "title": "Libertinus Math: Version 7.051;RELEASE added",
+            "author": "Yanone",
+            "status": "new",
+            "kind": "family",
+            "id": "c02c7b312e5c893e4288dce140ce58ed6fd58d55"
+        },
+        {
+            "date": "2025-04-03T10:41:57",
+            "title": "Merge pull request #9300 from google/ci-fix",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "a1cf1f820b0a4ad451aba7d391c352675dc6864c"
+        },
+        {
+            "date": "2025-04-03T10:20:30",
+            "title": "rename dir to fix win runner",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "designer",
+            "id": "63d38ed00e381dca5eb4bf2e34cf16c39f9a1858"
+        },
+        {
+            "date": "2025-04-02T17:42:54",
+            "title": "Also changing Cactus and Chocolate",
+            "author": "Aaron",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "359d1935e325024a01e5c07c64925589dd443f16"
+        },
+        {
+            "date": "2025-04-02T17:35:04",
+            "title": "Updating LXGW WenKai fonts to be classified as Chinese Traditional",
+            "author": "Aaron",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "11d46454223c07e7ba40f56668c84d76968cef3e"
+        },
+        {
+            "date": "2025-04-02T14:40:02",
+            "title": "Merge pull request #9221 from google/more-subsets",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "8b76601711a65a398e62c051151952f87232d147"
+        },
+        {
+            "date": "2025-04-02T14:35:57",
+            "title": "Merge pull request #9220 from google/missing-primary-scripts",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "cc250c972dca4d5f9f00faeef13bd68d2f104af0"
+        },
+        {
+            "date": "2025-04-02T14:11:35",
+            "title": "Akatab: Version 4.000 added",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "5ae22a94169cf124ee7f6cee0033189d54f4e8c6"
+        },
+        {
+            "date": "2025-04-02T12:54:48",
+            "title": "Update METADATA.pb",
+            "author": "Aaron",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "ef006da2cec898c0477855ce4553d43ae7ff8878"
+        },
+        {
+            "date": "2025-04-02T12:41:15",
+            "title": "Update METADATA.pb",
+            "author": "Aaron",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "8df4a8215000285b62287d723eb6b89d42fddf83"
+        },
+        {
+            "date": "2025-04-02T12:40:04",
+            "title": "Update Iansui-Regular.ttf",
+            "author": "Aaron",
+            "status": "modified",
+            "kind": "family",
+            "id": "6eac367859dcbc4aaa15179cfa34ac12b4bec511"
+        },
+        {
+            "date": "2025-04-02T11:19:01",
+            "title": "Merge pull request #9295 from google/fontspectorall-main",
+            "author": "Simon Cozens",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "ee48f4be74f345d25eb2deb5533db64db9d003f8"
+        },
+        {
+            "date": "2025-04-02T10:36:48",
+            "title": "Find database in correct location",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "88d740809668851d6da483764092cd0d5dd84f3f"
+        },
+        {
+            "date": "2025-04-02T10:33:33",
+            "title": "Don't rebuild fontspector dashboard on push",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "d8ccdb4e64723b3143b6b538916e0073ac43ef3b"
+        },
+        {
+            "date": "2025-04-01T15:41:35",
+            "title": "Merge pull request #9290 from google/fontspector-ci-fix",
+            "author": "Simon Cozens",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "622203b1a1c8bc6958408630ddef38829ea690c3"
+        },
+        {
+            "date": "2025-04-01T14:46:05",
+            "title": "Don\u2019t keep database in main branch",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "1486feace42635fc0c4ec5834d949479a5162143"
+        },
+        {
+            "date": "2025-04-01T13:43:31",
+            "title": "Smaller image files sizes",
+            "author": "Yanone",
+            "status": "modified",
+            "kind": "family",
+            "id": "06dfed7ed87c405cdd42368cd0b3b9236b9fcb27"
+        },
+        {
+            "date": "2025-04-01T12:57:19",
+            "title": "Allow fontspector job to write back to repo",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "3c82dbd41f58488658e2371630e40da59e590401"
+        },
+        {
+            "date": "2025-04-01T12:16:07",
+            "title": "Merge pull request #9288 from google/fontspector-dashboard",
+            "author": "Simon Cozens",
+            "status": "new",
+            "kind": "family",
+            "id": "4727cccded76ddae03347832a5248565ce5621d1"
+        },
+        {
+            "date": "2025-04-01T08:15:56",
+            "title": "Use lfs for DB",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "86a6633e79695a213794b7f2f57c02e70050bd55"
+        },
+        {
+            "date": "2025-04-01T08:15:48",
+            "title": "Separate build path and git path",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "c1192f558947f8c9ec3a8471ac98943ce83eb24e"
+        },
+        {
+            "date": "2025-04-01T08:15:47",
+            "title": "Add dashboard source",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "7abd1df08c7745371af53ec5272e8016887edd3a"
+        },
+        {
+            "date": "2025-04-01T08:15:47",
+            "title": "Try to run fontspector on everything",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "d1b044e9826557ea459b86f7f083dfb66501053e"
+        },
+        {
+            "date": "2025-04-01T08:08:33",
+            "title": "Merge pull request #9232 from google/gftools_packager_ofl_calsans",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "family",
+            "id": "5f391bf0cec34413550070951c10cde414356652"
+        },
+        {
+            "date": "2025-04-01T08:07:10",
+            "title": "Merge pull request #9240 from google/markdavis",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "designer",
+            "id": "33537df7bc5382ff14c16ae6507a2241be5d571f"
+        },
+        {
+            "date": "2025-04-01T08:03:18",
+            "title": "Merge pull request #9241 from google/gftools_packager_ofl_epundaslab",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "family",
+            "id": "bd1c4f4f94cc80acd044508f78f4988d10400bc5"
+        },
+        {
+            "date": "2025-04-01T08:00:30",
+            "title": "Merge pull request #9246 from google/gftools_packager_ofl_epundasans",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "family",
+            "id": "f1aace59300595e37a0da76df5bf6f3b55843d6c"
+        },
+        {
+            "date": "2025-04-01T07:59:59",
+            "title": "Merge pull request #9274 from google/gftools_packager_ofl_coralpixels",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "family",
+            "id": "8637f8432b1b5c21ee388d3bdcb1ec0178cb872a"
+        },
+        {
+            "date": "2025-04-01T07:59:41",
+            "title": "Merge pull request #9250 from google/Calcominc",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "designer",
+            "id": "d7c898d13a30e3a87dc42f14d3cae70340554e91"
+        },
+        {
+            "date": "2025-04-01T05:15:10",
+            "title": "Merge pull request #9287 from felipesanches/batch_4_of_4__repo_commit_entries_from_fontc_crater_targets_json",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "491bf5cb12723e619e73eee5118ca4abf2b4ddcc"
+        },
+        {
+            "date": "2025-04-01T05:14:51",
+            "title": "Merge pull request #9286 from felipesanches/batch_3_of_4__repo_commit_entries_from_fontc_crater_targets_json",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "c19323982846c5c79b87c507d273ebd9084f6774"
+        },
+        {
+            "date": "2025-04-01T05:14:18",
+            "title": "Merge pull request #9285 from felipesanches/batch_2_of_4__repo_commit_entries_from_fontc_crater_targets_json",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "9ed1d894e62c629cdff10fcbad599764e4b03310"
+        },
+        {
+            "date": "2025-04-01T05:14:02",
+            "title": "Merge pull request #9284 from felipesanches/batch_1_of_4__repo_commit_entries_from_fontc_crater_targets_json",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "71e78e6882a0dfc931233ff9638a9055ecb3e235"
+        },
+        {
+            "date": "2025-03-31T20:20:53",
+            "title": "[Batch 4/4] port info from fontc_crater targets list",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "8cd19016a025e4b444a2421a822f5d35514c51fe"
+        },
+        {
+            "date": "2025-03-31T20:19:52",
+            "title": "[batch 3/4] port info from fontc_crater targets list",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "5fa1b4a6c5feaaab0c0e09a568f3d332bcab355b"
+        },
+        {
+            "date": "2025-03-31T20:18:42",
+            "title": "[Batch 2/4] port info from fontc_crater targets list",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "4ad8ac680573a3b43e2c9637f7cad3fcfc5648d1"
+        },
+        {
+            "date": "2025-03-31T20:17:43",
+            "title": "[Batch 1/4] port info from fontc_crater targets list",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "19cdcec59967f4aa6defb86bd0550dff1ac43abb"
+        },
+        {
+            "date": "2025-03-31T09:40:40",
+            "title": "Merge pull request #9248 from google/emmamarichal-patch-3",
+            "author": "Marc Foley",
+            "status": "modified",
+            "kind": "family",
+            "id": "7a52693c6f33db2c0fae7506763a6614b0c66457"
+        },
+        {
+            "date": "2025-03-31T08:41:38",
+            "title": "Exile: Version 1.000; ttfautohint (v1.8.4.7-5d5b) added",
+            "author": "Marc Foley",
+            "status": "new",
+            "kind": "family",
+            "id": "7e7190828b8c23c2ba13c59bade9f9cff9ed4d4a"
+        },
+        {
+            "date": "2025-03-28T14:16:20",
+            "title": "Merge pull request #9277 from google/tolists_2803",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "0e2ffbbdd4498a66f8f3de0a9f99beefe3a03f6c"
+        },
+        {
+            "date": "2025-03-28T14:07:26",
+            "title": "Lists of the 28th of March",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "479c318250529316703ae631885551a3347f4bef"
+        },
+        {
+            "date": "2025-03-28T13:45:52",
+            "title": "Merge pull request #9273 from google/gftools_packager_ofl_playpensanshebrew",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "f82576ee706a49a5438e2981ab7a0348793653d7"
+        },
+        {
+            "date": "2025-03-28T09:45:50",
+            "title": "Merge pull request #9276 from google/emmamarichal-patch-5",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "infrastructure",
+            "id": "56ece017c3a00a5cdff7effa49721252a8c78e23"
+        },
+        {
+            "date": "2025-03-28T09:09:10",
+            "title": "Tiny correction in ARTICLE.en_us.html",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "d73dffc10e376849064fa4c49366134f2a975cad"
+        },
+        {
+            "date": "2025-03-28T09:05:54",
+            "title": "Merge pull request #9271 from google/gftools_packager_ofl_playpensansdeva",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "family",
+            "id": "091b14565625758a41d6eb87ffff32fdbd46a83c"
+        },
+        {
+            "date": "2025-03-28T09:03:19",
+            "title": "Merge pull request #9272 from google/GunjanPanchal",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "designer",
+            "id": "0c5315026b490f877098804a550d9e98c5537c73"
+        },
+        {
+            "date": "2025-03-28T09:02:24",
+            "title": "Merge pull request #9262 from google/PPS-i18n-articles-video",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "70dbd8798851c68aa621422ea70cfad8414150ed"
+        },
+        {
+            "date": "2025-03-28T09:02:14",
+            "title": "Merge pull request #9267 from google/RobotoF-YT-video",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "6bc46b6c2ff794b53c736be433878e20d1a84729"
+        },
+        {
+            "date": "2025-03-28T08:55:38",
+            "title": "Update METADATA.pb",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "edc0636b799a01a45e0c5cf6ca9959e13c740081"
+        },
+        {
+            "date": "2025-03-28T08:32:25",
+            "title": "update url issues",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "f628aed2de46dec89eacd5edeee08821fd3442f0"
+        },
+        {
+            "date": "2025-03-28T08:20:42",
+            "title": "Update families.csv",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "97e85c721c80834cb056ccfa8967543e38b69b62"
+        },
+        {
+            "date": "2025-03-28T08:18:33",
+            "title": "Coral Pixels - Update families.csv",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "e83dcd4a11efed7a166ec376d441b438201d8bc9"
+        },
+        {
+            "date": "2025-03-28T08:11:10",
+            "title": "update url in metadata",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "6f7ab4e7aa75137573ab21975f0f6d35d32a2aff"
+        },
+        {
+            "date": "2025-03-28T08:11:00",
+            "title": "Add article",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "d5485e4eba416975e5ad3ca851ccb1ab0407f450"
+        },
+        {
+            "date": "2025-03-28T07:54:03",
+            "title": "Coral Pixels: Version 1.000; ttfautohint (v1.8.4.7-5d5b) added",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "c7ee9d632044c05b2fc0561f05334b03e088cef6"
+        },
+        {
+            "date": "2025-03-27T23:23:16",
+            "title": "Playpen Sans Hebrew: Version 2.000 added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "635fe1f5046e82a2910c5a5b5d7a5590498f605d"
+        },
+        {
+            "date": "2025-03-27T23:16:22",
+            "title": "PPS Deva Gunjan Panchal designer added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "40e399554e8515c865a43ff45dd35371e1bcd9dd"
+        },
+        {
+            "date": "2025-03-27T23:10:10",
+            "title": "PPS Deva article added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "9a2dd8651cd3fbe4fd88899909a8836b5019f1a4"
+        },
+        {
+            "date": "2025-03-27T23:02:55",
+            "title": "Playpen Sans Deva: Version 2.000 added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "c6dea74f18ae82e6aaa2120f0a36af231c1e7e62"
+        },
+        {
+            "date": "2025-03-27T15:46:53",
+            "title": "YouTube links fix",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "9a6d3f981b2b74c70fec72961a65c1e06fcc4b2c"
+        },
+        {
+            "date": "2025-03-27T15:36:08",
+            "title": "Update Anton families to display (#9269)",
+            "author": "Tomas",
+            "status": "modified",
+            "kind": "family",
+            "id": "512423b4833aeb1e56013b08cefeea9615961ca4"
+        },
+        {
+            "date": "2025-03-27T14:21:25",
+            "title": "PPS i18n video cover image added",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "6a5907d4f4b17caf26eb35772609c48e42c8ed09"
+        },
+        {
+            "date": "2025-03-27T09:21:06",
+            "title": "Merge pull request #9263 from google/chrissimpkins-notoserif-metadata",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "77e8b85357f9f2d676ca799b5dbfe53bc82fb9b7"
+        },
+        {
+            "date": "2025-03-27T08:27:23",
+            "title": "Merge pull request #9264 from google/chrissimpkins-fraunces-docs",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "3181a91a46c0fcee94ae1cddb2a9c42e37a4d907"
+        },
+        {
+            "date": "2025-03-27T08:25:26",
+            "title": "subsets: alphabetical order",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "3be6760eae974f4c107d6ee16bfeef66bbf537cc"
+        },
+        {
+            "date": "2025-03-27T07:54:53",
+            "title": "Merge pull request #9266 from felipesanches/revert_removal_of_a_few_METADATA.pb_branch_values",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "f3d76a070d47697d9136e78173073070429eeaa3"
+        },
+        {
+            "date": "2025-03-26T22:40:43",
+            "title": "Roboto Flex YouTube video format update",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "6e9f99162e5ac1d76fa5a29c65bc83d73a366024"
+        },
+        {
+            "date": "2025-03-26T22:34:31",
+            "title": "PPS articles: YouTube link formatting change",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "family",
+            "id": "4b5f5175d37be35163b56e80bf42cca05a2d7ed5"
+        },
+        {
+            "date": "2025-03-26T21:23:18",
+            "title": "revert removal of `branch` values on METADATA.pb files",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "f19b6da7d0168a45a368cdfcbd78c9406e7ce665"
+        },
+        {
+            "date": "2025-03-26T19:09:33",
+            "title": "update Fraunces About page content, rephrase / typo fix",
+            "author": "Chris Simpkins",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "222b6b770ec416d2213570c6a82e62438eb712f3"
+        },
+        {
+            "date": "2025-03-26T18:49:41",
+            "title": "add \"math\" subset to the Noto Serif project",
+            "author": "Chris Simpkins",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "6959eaaba0ddd1c237457e21548003d7f506e024"
+        },
+        {
+            "date": "2025-03-26T14:16:00",
+            "title": "Merge pull request #9140 from google/bios-for-menbere-and-agbalumo",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "designer",
+            "id": "ee3eba1f6a6be09d71d688f0e2f4b27f2c795c42"
+        },
+        {
+            "date": "2025-03-26T11:02:01",
+            "title": "Merge pull request #9259 from felipesanches/populate_config_yaml_field_for_a_few_families",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "6a98a984c7838a7b7d5b3314e400eeb79f23afd0"
+        },
+        {
+            "date": "2025-03-26T10:24:06",
+            "title": "Merge pull request #9247 from google/gftools_packager_ofl_librebaskerville",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "c742a26611c355c526a351b9ac879144ee7bff18"
+        },
+        {
+            "date": "2025-03-26T04:29:02",
+            "title": "PPS i18n YouTube video added to articles",
+            "author": "Viviana Monsalve",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "f691a6fb9a124178d9ce490af9192cdd8128b24b"
+        },
+        {
+            "date": "2025-03-25T05:56:06",
+            "title": "[METADATA.pb] Populate font sources related fields for a few font families.",
+            "author": "Felipe Corr\u00eaa da Silva Sanches",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "53995c52af8d7aed9e0139a9de537fbd4b8ed1a8"
+        },
         {
             "date": "2025-03-24T17:46:45",
             "title": "Update to_sandbox.txt (#9256)",
@@ -22,24 +1438,136 @@
             "title": "Update to_production.txt",
             "author": "Emma Marichal",
             "status": "modified",
-            "kind": "infrastructure",
+            "kind": "family",
             "id": "b0a6d9a681eb2fa42b86b0f78270198d586afa7e"
+        },
+        {
+            "date": "2025-03-21T13:35:26",
+            "title": "Update OFL.txt",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "1fee23aceb88190a096292788d35bf7ca0d03968"
         },
         {
             "date": "2025-03-21T13:05:45",
             "title": "Merge pull request #9236 from google/pushlists",
             "author": "Emma Marichal",
             "status": "modified",
-            "kind": "infrastructure",
+            "kind": "designer",
             "id": "b77a1c3ebb45dbfc6d19def606b9684144250fe8"
+        },
+        {
+            "date": "2025-03-21T12:49:48",
+            "title": "add designer: Cal.com Inc.",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "designer",
+            "id": "35e4666fb218b860e07b83d358cf4b888f24111f"
+        },
+        {
+            "date": "2025-03-21T10:46:21",
+            "title": "Epunda Sans - Update families.csv",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "b0fae7525b69b7fc6e0208ea20f6c660b03b11e7"
+        },
+        {
+            "date": "2025-03-21T10:33:45",
+            "title": "article",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "a8fb565efc50179228ebfe09aaac9ae8381d71ff"
+        },
+        {
+            "date": "2025-03-21T10:30:44",
+            "title": "copyright added in metadata",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "c52fc6efb4540b40559d0d08d77651d1cb7151ec"
+        },
+        {
+            "date": "2025-03-21T10:30:32",
+            "title": "Libre Baskerville: Version 1.051; ttfautohint (v1.8.4.7-5d5b) added",
+            "author": "Yanone",
+            "status": "modified",
+            "kind": "family",
+            "id": "5c60bbadcb623a3fd926b5a7454ca1d63f75606e"
+        },
+        {
+            "date": "2025-03-21T10:29:46",
+            "title": "Epunda Sans: Version 2.204 added",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "27967bdbb515d7390c6c6069a34a64e870c5e2aa"
+        },
+        {
+            "date": "2025-03-20T14:01:18",
+            "title": "Epunda Slab - Update families.csv",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "a352613258dcfc8f73dce598f475a6c55c39b4da"
+        },
+        {
+            "date": "2025-03-20T13:56:53",
+            "title": "Update METADATA.pb",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "52c71027c6a6c3e34c060ff993c4316bcf8c4ece"
+        },
+        {
+            "date": "2025-03-20T13:51:54",
+            "title": "Add article",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "7d9c9b603a89f0e2446219650aa3adb3606520fc"
+        },
+        {
+            "date": "2025-03-20T10:54:30",
+            "title": "Epunda Slab: Version 1.102 added",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "1199401b6ca88c21fcda2719e4d6fc8459d57cc7"
+        },
+        {
+            "date": "2025-03-20T10:33:30",
+            "title": "Add designer: Mark Davis",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "designer",
+            "id": "3b31a891882912ec107b90baf340e5654eb4a1ad"
         },
         {
             "date": "2025-03-20T10:17:01",
             "title": "Merge pull request #9237 from google/PPS-i18n-articles",
             "author": "Emma Marichal",
-            "status": "new",
-            "kind": "infrastructure",
+            "status": "modified",
+            "kind": "family",
             "id": "4a8286d1e5ee2b3defb8a7f7847587542f079778"
+        },
+        {
+            "date": "2025-03-20T10:04:19",
+            "title": "Update METADATA.pb",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "caac7d3e6446b4d3ec389bbcdf0f4701c0588e05"
+        },
+        {
+            "date": "2025-03-20T10:00:24",
+            "title": "Cal Sans- Update families.csv",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "9b7171447d1371680252b6e64590e1673b984750"
         },
         {
             "date": "2025-03-20T01:45:36",
@@ -54,8 +1582,24 @@
             "title": "PPS LGC + Thai emojis fix",
             "author": "Viviana Monsalve",
             "status": "modified",
-            "kind": "infrastructure",
+            "kind": "family",
             "id": "15bffea98472a28e62726faff03722e251ee4429"
+        },
+        {
+            "date": "2025-03-19T17:16:14",
+            "title": "smaller .gif",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "20b536340b900ac34edf1ab74d6c4ae6c4816e91"
+        },
+        {
+            "date": "2025-03-19T17:05:32",
+            "title": "article (add images)",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "family",
+            "id": "8a787f49c9f405f8e10b5beb4bacfc5a2736aa76"
         },
         {
             "date": "2025-03-19T16:31:40",
@@ -70,8 +1614,24 @@
             "title": "Update to_production.txt (#9234)",
             "author": "nyshadhr9",
             "status": "modified",
-            "kind": "infrastructure",
+            "kind": "family",
             "id": "c7d7cac1ef1ae29f92569c4a45aff2ab04d83e4b"
+        },
+        {
+            "date": "2025-03-19T15:25:21",
+            "title": "add description",
+            "author": "Emma Marichal",
+            "status": "modified",
+            "kind": "infrastructure",
+            "id": "cc8a89c19412ba875c9d4ee387637aeaaca65210"
+        },
+        {
+            "date": "2025-03-19T14:27:00",
+            "title": "Cal Sans: Version 1.000; ttfautohint (v1.8.4.7-5d5b) added",
+            "author": "Emma Marichal",
+            "status": "new",
+            "kind": "family",
+            "id": "59e4eb6ee81211a71f5ac89a94323e1014f943cf"
         },
         {
             "date": "2025-03-19T14:14:50",
@@ -293,9 +1853,25 @@
             "date": "2025-03-18T09:36:11",
             "title": "Merge pull request #9219 from google/tags-all",
             "author": "Marc Foley",
-            "status": "new",
+            "status": "modified",
             "kind": "infrastructure",
             "id": "c32bcc24bdd7f34942670009f037fdd56079f365"
+        },
+        {
+            "date": "2025-03-17T16:00:50",
+            "title": "Found some more subsets",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "84f7346a75ee122221399c085b1762ee72abb43c"
+        },
+        {
+            "date": "2025-03-17T13:40:05",
+            "title": "Primary scripts identified by Dave/Chris/Simon review",
+            "author": "Simon Cozens",
+            "status": "modified",
+            "kind": "family",
+            "id": "8b70d4c3465ad23848a385f8cb23426d0f2fe7ee"
         },
         {
             "date": "2025-03-17T13:31:34",
@@ -1182,8 +2758,16 @@
             "title": "Fix CI paths",
             "author": "Simon Cozens",
             "status": "modified",
-            "kind": "infrastructure",
+            "kind": "designer",
             "id": "4ca6d9253e8fe8b76eac6c2b3c9a0d2fecf2916e"
+        },
+        {
+            "date": "2025-03-04T15:31:57",
+            "title": "Bios for Menbere and Agbalumo",
+            "author": "Yanone",
+            "status": "modified",
+            "kind": "designer",
+            "id": "c82066a640ce3d28c66382b90b0d1dcff5fcb89d"
         },
         {
             "date": "2025-03-04T14:01:24",
@@ -81566,178 +83150,10 @@
         "sandbox": [],
         "production": [
             {
-                "path": "ofl/specialgothiccondensedone",
-                "category": "New",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9165"
-            },
-            {
-                "path": "ofl/specialgothicexpandedone",
-                "category": "New",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9171"
-            },
-            {
-                "path": "ofl/nanummyeongjo",
-                "category": "Upgrade",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9136"
-            },
-            {
                 "path": "ofl/notosansthailooped",
                 "category": "Upgrade",
                 "status": null,
                 "url": "https://github.com/google/fonts/pull/9090"
-            },
-            {
-                "path": "catalog/designers/seunbadejo",
-                "category": "Designer profile",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9126"
-            },
-            {
-                "path": "ofl/42dotsans",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9045"
-            },
-            {
-                "path": "ofl/afacad",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/andika",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/climatecrisis",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/danfo",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/doto",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/gamaamli",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/lexend",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/lexenddeca",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/lexendexa",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/lexendgiga",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/lexendmega",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/lexendpeta",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/lexendtera",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/lexendzetta",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/matemasie",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/mingzat",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/ojuju",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/onest",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/tacone",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/taiheritagepro",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/tiltneon",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/tiltprism",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
-            },
-            {
-                "path": "ofl/tiltwarp",
-                "category": "Metadata / Description / License",
-                "status": null,
-                "url": "https://github.com/google/fonts/pull/9114"
             }
         ]
     }
